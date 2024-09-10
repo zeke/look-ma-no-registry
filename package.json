@@ -1,0 +1,17 @@
+{
+  "name": "look-ma-no-registry",
+  "version": "1.0.0",
+  "description": "A proof of concept for installing npm packages directly from GitHub",
+  "main": "index.js",
+  "bin": {
+    "look-ma-no-registry": "./index.js"
+  },
+  "repository": "https://github.com/zeke/look-ma-no-registry",
+  "keywords": [
+    "npm",
+    "github"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "MIT",
+  "type": "module"
+}
