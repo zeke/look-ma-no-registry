@@ -1,9 +1,8 @@
-# Look ma, no (npm) registry!
+# 🙌 Look ma, no (npm) registry!
 
 Did you know you can install packages directly from GitHub repos, without publishing them to the npm registry?
 
 This is a little demo repo/package to show off how that works. 
-
 
 ## Install from GitHub
 
